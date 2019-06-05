@@ -1,0 +1,2 @@
+# word_embeddings_keras_library
+Performed Word Embeddings in Keras Library using Python for Software Engineering Documents and measuring their document similarity with Queries(SE related code) and performing Ranking using Semantic Vectors Package as well as XGboost Learning to Rank.This project is basically for learning more about Information Retrieval in Software Engineering for improving the results for query in use cases like Bug reports, Linking software API documents to stackoverflow answers, evaluation of pseudo code type answers.
